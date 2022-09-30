@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Blaster.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\dev\UE5\Blaster\Intermediate\Build\Win64\BlasterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\dev\UE5\Blaster\Intermediate\Build\Win64\UnrealEditor\Development\Blaster\Blaster.cpp.obj"
+"C:\dev\UE5\Blaster\Intermediate\Build\Win64\UnrealEditor\Development\Blaster\BlasterGameModeBase.cpp.obj"
+"C:\dev\UE5\Blaster\Intermediate\Build\Win64\UnrealEditor\Development\Blaster\Blaster.init.gen.cpp.obj"
+"C:\dev\UE5\Blaster\Intermediate\Build\Win64\UnrealEditor\Development\Blaster\BlasterGameModeBase.gen.cpp.obj"
+"C:\dev\UE5\Blaster\Intermediate\Build\Win64\UnrealEditor\Development\Blaster\Default.rc2.res"
+/OUT:"C:\dev\UE5\Blaster\Intermediate\Build\Win64\UnrealEditor\Development\Blaster\UnrealEditor-Blaster.lib"

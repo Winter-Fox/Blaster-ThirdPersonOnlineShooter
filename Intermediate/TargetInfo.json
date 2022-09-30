@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Blaster",
+			"Path": "C:\\dev\\UE5\\Blaster\\Source\\Blaster.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BlasterEditor",
+			"Path": "C:\\dev\\UE5\\Blaster\\Source\\BlasterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

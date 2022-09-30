@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\dev\\ue5\\blaster\\intermediate\\build\\win64\\unrealeditor\\inc\\blaster\\blaster.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\ue5\\blaster\\intermediate\\build\\win64\\blastereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\dev\\ue5\\blaster\\intermediate\\build\\win64\\unrealeditor\\development\\blaster\\definitions.blaster.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

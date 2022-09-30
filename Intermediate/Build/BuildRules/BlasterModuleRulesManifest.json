@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\dev\\UE5\\Blaster\\Source\\Blaster\\Blaster.Build.cs",
+		"C:\\dev\\UE5\\Blaster\\Plugins\\MultiplayerPlugin\\Source\\MultiplayerPlugin\\MultiplayerPlugin.Build.cs",
+		"C:\\dev\\UE5\\Blaster\\Source\\Blaster.Target.cs",
+		"C:\\dev\\UE5\\Blaster\\Source\\BlasterEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

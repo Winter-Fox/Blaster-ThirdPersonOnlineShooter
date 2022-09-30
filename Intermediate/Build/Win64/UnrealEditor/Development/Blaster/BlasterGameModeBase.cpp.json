@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\dev\\ue5\\blaster\\source\\blaster\\blastergamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\ue5\\blaster\\intermediate\\build\\win64\\blastereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\dev\\ue5\\blaster\\intermediate\\build\\win64\\unrealeditor\\development\\blaster\\definitions.blaster.h",
+            "c:\\dev\\ue5\\blaster\\source\\blaster\\blastergamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\dev\\ue5\\blaster\\intermediate\\build\\win64\\unrealeditor\\inc\\blaster\\blastergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
